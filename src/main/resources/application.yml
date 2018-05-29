@@ -36,7 +36,7 @@ spring:
   application:
     name: bolabeken-core
   datasource:
-    url : jdbc:postgresql://zhivrqesorrymk:fd8b16368cf717a930e4fe7321865c63c9d7ac1a7b6393597d3ab3d91d8a5321@ec2-23-23-247-222.compute-1.amazonaws.com:5432/dbfai7ole0epts?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory
+    url : jdbc:postgresql://ec2-23-23-247-222.compute-1.amazonaws.com:5432/dbfai7ole0epts?ssl=true&sslfactory=org.postgresql.ssl.NonValidatingFactory
     username: zhivrqesorrymk
     password: fd8b16368cf717a930e4fe7321865c63c9d7ac1a7b6393597d3ab3d91d8a5321
     driver-class-name: org.postgresql.Driver
