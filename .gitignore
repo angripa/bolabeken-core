@@ -10,3 +10,15 @@ buildNumber.properties
 
 # Avoid ignoring Maven wrapper jar file (.jar files are usually ignored)
 !/.mvn/wrapper/maven-wrapper.jar
+.classpath
+.DS_Store
+.project
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.wst.common.project.facet.core.xml
+.settings/org.springframework.ide.eclipse.boot.prefs
+.settings/org.springframework.ide.eclipse.boot.properties.editor.prefs
+.springBeans
